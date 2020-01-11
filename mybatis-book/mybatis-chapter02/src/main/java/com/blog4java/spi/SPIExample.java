@@ -5,6 +5,9 @@ import org.junit.Test;
 import java.sql.Driver;
 import java.util.ServiceLoader;
 
+/**
+ * page 28
+ */
 public class SPIExample {
     @Test
     public void testSPI() {
